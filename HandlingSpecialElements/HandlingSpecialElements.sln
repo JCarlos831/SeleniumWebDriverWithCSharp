@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.InputTextBox", "HandlingSpecialElements\01.InputTextBox.csproj", "{0ED3CD43-97BD-4D87-A287-D83BFD4B7B67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CheckBox", "02.CheckBox\02.CheckBox.csproj", "{535D0D8D-727E-412F-A901-A0CA9D370D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RadioButton", "03.RadioButton\03.RadioButton.csproj", "{D2DE4713-6C58-4207-A202-4F4F9489D692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED3CD43-97BD-4D87-A287-D83BFD4B7B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED3CD43-97BD-4D87-A287-D83BFD4B7B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED3CD43-97BD-4D87-A287-D83BFD4B7B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED3CD43-97BD-4D87-A287-D83BFD4B7B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535D0D8D-727E-412F-A901-A0CA9D370D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535D0D8D-727E-412F-A901-A0CA9D370D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535D0D8D-727E-412F-A901-A0CA9D370D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535D0D8D-727E-412F-A901-A0CA9D370D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DE4713-6C58-4207-A202-4F4F9489D692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DE4713-6C58-4207-A202-4F4F9489D692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DE4713-6C58-4207-A202-4F4F9489D692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DE4713-6C58-4207-A202-4F4F9489D692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3658E4-82BA-4B41-BA5D-56E9174D5915}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\HandlingSpecialElements.exe.config
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\HandlingSpecialElements.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\HandlingSpecialElements.pdb
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\WebDriver.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\WebDriver.Support.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\WebDriver.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\WebDriver.Support.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\1.InputTextBox.csprojResolveAssemblyReference.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\1.InputTextBox.csproj.CoreCompileInputs.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\HandlingSpecialElements.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\HandlingSpecialElements.pdb
