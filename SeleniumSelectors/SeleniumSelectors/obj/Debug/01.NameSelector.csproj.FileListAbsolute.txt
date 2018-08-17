@@ -1,0 +1,11 @@
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\bin\Debug\SeleniumSelectors.exe.config
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\bin\Debug\SeleniumSelectors.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\bin\Debug\SeleniumSelectors.pdb
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\bin\Debug\WebDriver.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\bin\Debug\WebDriver.Support.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\bin\Debug\WebDriver.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\bin\Debug\WebDriver.Support.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\obj\Debug\01.NameSelector.csprojResolveAssemblyReference.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\obj\Debug\01.NameSelector.csproj.CoreCompileInputs.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\obj\Debug\SeleniumSelectors.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\SeleniumSelectors\obj\Debug\SeleniumSelectors.pdb

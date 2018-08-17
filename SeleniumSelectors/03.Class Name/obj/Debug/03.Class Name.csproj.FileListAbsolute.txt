@@ -1,0 +1,11 @@
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\bin\Debug\03.Class Name.exe.config
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\bin\Debug\03.Class Name.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\bin\Debug\03.Class Name.pdb
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\bin\Debug\WebDriver.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\bin\Debug\WebDriver.Support.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\bin\Debug\WebDriver.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\bin\Debug\WebDriver.Support.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\obj\Debug\03.Class Name.csprojResolveAssemblyReference.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\obj\Debug\03.Class Name.csproj.CoreCompileInputs.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\obj\Debug\03.Class Name.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\03.Class Name\obj\Debug\03.Class Name.pdb

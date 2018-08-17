@@ -1,0 +1,11 @@
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\bin\Debug\04.CSS and XPath.exe.config
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\bin\Debug\04.CSS and XPath.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\bin\Debug\04.CSS and XPath.pdb
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\bin\Debug\WebDriver.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\bin\Debug\WebDriver.Support.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\bin\Debug\WebDriver.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\bin\Debug\WebDriver.Support.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\obj\Debug\04.CSS and XPath.csprojResolveAssemblyReference.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\obj\Debug\04.CSS and XPath.csproj.CoreCompileInputs.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\obj\Debug\04.CSS and XPath.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SeleniumSelectors\04.CSS and XPath\obj\Debug\04.CSS and XPath.pdb
