@@ -1,0 +1,11 @@
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe.config
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.pdb
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.dll
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.xml
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.csprojResolveAssemblyReference.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.exe
+C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\SettingUpYourEnvironment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.pdb
