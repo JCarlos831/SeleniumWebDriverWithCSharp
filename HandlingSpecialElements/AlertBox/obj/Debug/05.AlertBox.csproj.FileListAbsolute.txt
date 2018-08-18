@@ -1,0 +1,12 @@
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\bin\Debug\AlertBox.exe.config
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\bin\Debug\AlertBox.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\bin\Debug\AlertBox.pdb
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\bin\Debug\WebDriver.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\bin\Debug\WebDriver.Support.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\bin\Debug\WebDriver.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\bin\Debug\WebDriver.Support.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\obj\Debug\05.AlertBox.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\obj\Debug\05.AlertBox.csproj.CopyComplete
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\obj\Debug\AlertBox.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\obj\Debug\AlertBox.pdb
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\AlertBox\obj\Debug\05.AlertBox.csprojAssemblyReference.cache

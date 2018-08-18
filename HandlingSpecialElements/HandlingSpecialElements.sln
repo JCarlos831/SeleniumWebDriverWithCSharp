@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CheckBox", "02.CheckBox\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RadioButton", "03.RadioButton\03.RadioButton.csproj", "{D2DE4713-6C58-4207-A202-4F4F9489D692}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DropDownMenu", "DropDownMenu\04.DropDownMenu.csproj", "{6D23C5EB-D54B-4EC9-B9E2-93D0EA0D3220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AlertBox", "AlertBox\05.AlertBox.csproj", "{0D73F741-76F4-4523-82FF-4A9A734F9223}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{D2DE4713-6C58-4207-A202-4F4F9489D692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2DE4713-6C58-4207-A202-4F4F9489D692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2DE4713-6C58-4207-A202-4F4F9489D692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D23C5EB-D54B-4EC9-B9E2-93D0EA0D3220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D23C5EB-D54B-4EC9-B9E2-93D0EA0D3220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D23C5EB-D54B-4EC9-B9E2-93D0EA0D3220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D23C5EB-D54B-4EC9-B9E2-93D0EA0D3220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D73F741-76F4-4523-82FF-4A9A734F9223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D73F741-76F4-4523-82FF-4A9A734F9223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D73F741-76F4-4523-82FF-4A9A734F9223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D73F741-76F4-4523-82FF-4A9A734F9223}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

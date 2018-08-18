@@ -9,3 +9,14 @@ C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSp
 C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\01.InputTextBox.csproj.CoreCompileInputs.cache
 C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\HandlingSpecialElements.exe
 C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\HandlingSpecialElements.pdb
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\HandlingSpecialElements.exe.config
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\HandlingSpecialElements.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\HandlingSpecialElements.pdb
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\WebDriver.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\WebDriver.Support.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\WebDriver.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\bin\Debug\WebDriver.Support.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\01.InputTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\01.InputTextBox.csproj.CopyComplete
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\HandlingSpecialElements.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\HandlingSpecialElements\obj\Debug\HandlingSpecialElements.pdb

@@ -8,3 +8,15 @@ C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\02.CheckBo
 C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\02.CheckBox\obj\Debug\02.CheckBox.csproj.CoreCompileInputs.cache
 C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\02.CheckBox\obj\Debug\02.CheckBox.exe
 C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\02.CheckBox\obj\Debug\02.CheckBox.pdb
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\bin\Debug\02.CheckBox.exe.config
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\bin\Debug\02.CheckBox.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\bin\Debug\02.CheckBox.pdb
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\bin\Debug\WebDriver.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\bin\Debug\WebDriver.Support.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\bin\Debug\WebDriver.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\bin\Debug\WebDriver.Support.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\obj\Debug\02.CheckBox.csprojAssemblyReference.cache
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\obj\Debug\02.CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\obj\Debug\02.CheckBox.csproj.CopyComplete
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\obj\Debug\02.CheckBox.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\02.CheckBox\obj\Debug\02.CheckBox.pdb

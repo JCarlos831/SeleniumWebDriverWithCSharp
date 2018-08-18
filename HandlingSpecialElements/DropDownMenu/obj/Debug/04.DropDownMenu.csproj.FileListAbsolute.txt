@@ -1,0 +1,12 @@
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\bin\Debug\DropDownMenu.exe.config
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\bin\Debug\DropDownMenu.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\bin\Debug\DropDownMenu.pdb
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\bin\Debug\WebDriver.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\bin\Debug\WebDriver.Support.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\bin\Debug\WebDriver.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\bin\Debug\WebDriver.Support.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\obj\Debug\04.DropDownMenu.csprojAssemblyReference.cache
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\obj\Debug\04.DropDownMenu.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\obj\Debug\04.DropDownMenu.csproj.CopyComplete
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\obj\Debug\DropDownMenu.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\DropDownMenu\obj\Debug\DropDownMenu.pdb

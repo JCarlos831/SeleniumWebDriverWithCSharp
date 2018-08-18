@@ -8,3 +8,15 @@ C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\03.RadioBu
 C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\03.RadioButton\obj\Debug\03.RadioButton.csproj.CoreCompileInputs.cache
 C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\03.RadioButton\obj\Debug\03.RadioButton.exe
 C:\Users\A-JMontoya\Desktop\SeleniumWebDriver\HandlingSpecialElements\03.RadioButton\obj\Debug\03.RadioButton.pdb
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\bin\Debug\03.RadioButton.exe.config
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\bin\Debug\03.RadioButton.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\bin\Debug\03.RadioButton.pdb
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\bin\Debug\WebDriver.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\bin\Debug\WebDriver.Support.dll
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\bin\Debug\WebDriver.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\bin\Debug\WebDriver.Support.xml
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\obj\Debug\03.RadioButton.csprojAssemblyReference.cache
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\obj\Debug\03.RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\obj\Debug\03.RadioButton.csproj.CopyComplete
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\obj\Debug\03.RadioButton.exe
+C:\Users\Juan Carlos\source\repos\SeleniumWebDriverWithCSharp\HandlingSpecialElements\03.RadioButton\obj\Debug\03.RadioButton.pdb
