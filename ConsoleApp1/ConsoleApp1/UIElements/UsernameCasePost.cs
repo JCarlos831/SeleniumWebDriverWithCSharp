@@ -3,14 +3,14 @@ using SeleniumExtras.PageObjects;
 
 namespace AutoTestFramework.UIElements
 {
-    public class HomePage
+    class UsernameCasePost
     {
-        public HomePage()
+        public UsernameCasePost()
         {
             PageFactory.InitElements(Driver.driver, this);
         }
 
-        [FindsBy(How = How.CssSelector, Using = "#page-17 > header > h1")]
-        public IWebElement Headline { get; set; }
+        [FindsBy(How = How.CssSelector, Using = "#post-74 > div > p > a")]
+        public IWebElement LoginFormLink { get; set; }
     }
 }
