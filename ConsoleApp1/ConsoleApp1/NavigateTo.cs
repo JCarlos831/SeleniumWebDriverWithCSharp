@@ -1,4 +1,5 @@
-﻿using AutoTestFramework.UIElements;
+﻿using AutoFramework.Pages;
+using AutoTestFramework;
 using System.Threading;
 
 namespace AutoTestFramework
@@ -12,7 +13,7 @@ namespace AutoTestFramework
 
             menu.TestScenarios.Click();
             Thread.Sleep(500);
-            tsPage.LoginForm.Click();
+            tsPage.LoginFormScenario.Click();
             Thread.Sleep(500);
         }
 
@@ -24,7 +25,7 @@ namespace AutoTestFramework
 
             menu.TestCases.Click();
             Thread.Sleep(500);
-            tcPage.UsernameField.Click();
+            tcPage.UsernameCase.Click();
             Thread.Sleep(500);
             ufPost.LoginFormLink.Click();
             Thread.Sleep(500);
@@ -37,7 +38,7 @@ namespace AutoTestFramework
 
             menu.TestScenarios.Click();
             Thread.Sleep(500);
-            tsPage.LoginForm.Click();
+            tsPage.LoginFormScenario.Click();
             Thread.Sleep(500);
         }
     }

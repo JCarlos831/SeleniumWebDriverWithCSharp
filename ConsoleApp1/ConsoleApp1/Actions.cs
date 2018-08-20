@@ -1,4 +1,4 @@
-﻿using AutoTestFramework.UIElements;
+﻿using AutoFramework.Pages;
 using OpenQA.Selenium.Chrome;
 
 namespace AutoTestFramework

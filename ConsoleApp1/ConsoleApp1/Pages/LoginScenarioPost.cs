@@ -1,13 +1,14 @@
-﻿using OpenQA.Selenium;
-using SeleniumExtras.PageObjects;
-
-namespace AutoTestFramework.UIElements
+﻿namespace AutoFramework.Pages
 {
-    class LoginScenarioPost
+    using AutoTestFramework;
+    using OpenQA.Selenium;
+    using SeleniumExtras.PageObjects;
+
+    public class LoginScenarioPost
     {
         public LoginScenarioPost()
         {
-            PageFactory.InitElements(Driver.driver, this);
+            SeleniumExtras.PageObjects.PageFactory.InitElements(Driver.driver, this);
         }
 
         [FindsBy(How = How.Name, Using = "userid")]

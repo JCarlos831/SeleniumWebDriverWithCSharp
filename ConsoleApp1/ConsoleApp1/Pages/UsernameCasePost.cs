@@ -1,9 +1,10 @@
-﻿using OpenQA.Selenium;
-using SeleniumExtras.PageObjects;
-
-namespace AutoTestFramework.UIElements
+﻿namespace AutoFramework.Pages
 {
-    class UsernameCasePost
+    using AutoTestFramework;
+    using OpenQA.Selenium;
+    using SeleniumExtras.PageObjects;
+
+    public class UsernameCasePost
     {
         public UsernameCasePost()
         {
@@ -12,5 +13,6 @@ namespace AutoTestFramework.UIElements
 
         [FindsBy(How = How.CssSelector, Using = "#post-74 > div > p > a")]
         public IWebElement LoginFormLink { get; set; }
+
     }
 }

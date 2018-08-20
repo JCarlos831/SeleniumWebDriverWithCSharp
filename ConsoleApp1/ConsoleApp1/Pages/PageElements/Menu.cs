@@ -1,8 +1,9 @@
-﻿using OpenQA.Selenium;
-using SeleniumExtras.PageObjects;
-
-namespace AutoTestFramework.UIElements
+﻿namespace AutoFramework.Pages
 {
+    using AutoTestFramework;
+    using OpenQA.Selenium;
+    using SeleniumExtras.PageObjects;
+
     public class Menu
     {
         public Menu()
@@ -27,6 +28,7 @@ namespace AutoTestFramework.UIElements
 
         [FindsBy(How = How.Id, Using = "menu-item-26")]
         public IWebElement About { get; set; }
+
 
     }
 }
