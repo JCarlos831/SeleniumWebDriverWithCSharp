@@ -6,9 +6,9 @@
 
     public class LoginScenarioPost
     {
-        public LoginScenarioPost()
+        public LoginScenarioPost(IWebDriver driver)
         {
-            SeleniumExtras.PageObjects.PageFactory.InitElements(Driver.driver, this);
+            SeleniumExtras.PageObjects.PageFactory.InitElements(driver, this);
         }
 
         [FindsBy(How = How.Name, Using = "userid")]

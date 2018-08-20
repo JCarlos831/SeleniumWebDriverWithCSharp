@@ -1,45 +1,30 @@
 ﻿using AutoFramework.Pages;
 using AutoTestFramework;
+using OpenQA.Selenium;
 using System.Threading;
 
 namespace AutoTestFramework
 {
     public static class NavigateTo
     {
-        public static void LoginFormThroughTheMenu()
+        public static void LoginFormScenarioThroughTestCases(IWebDriver driver)
         {
-            Menu menu = new Menu();
-            TestScenariosPage tsPage = new TestScenariosPage();
-
-            menu.TestScenarios.Click();
-            Thread.Sleep(500);
-            tsPage.LoginFormScenario.Click();
-            Thread.Sleep(500);
-        }
-
-        public static void LoginFormThroughThePost()
-        {
-            Menu menu = new Menu();
-            TestCasesPage tcPage = new TestCasesPage();
-            UsernameCasePost ufPost = new UsernameCasePost();
+            Menu menu = new Menu(driver);
+            TestCasesPage tcPage = new TestCasesPage(driver);
+            UsernameCasePost ucPost = new UsernameCasePost(driver);
 
             menu.TestCases.Click();
-            Thread.Sleep(500);
             tcPage.UsernameCase.Click();
-            Thread.Sleep(500);
-            ufPost.LoginFormLink.Click();
-            Thread.Sleep(500);
+            ucPost.LoginFormLink.Click();
         }
 
-        public static void LoginFormScenarioTestCases()
+        public static void LoginFormScenarioThroughMenu(IWebDriver driver)
         {
-            Menu menu = new Menu();
-            TestScenariosPage tsPage = new TestScenariosPage();
+            Menu menu = new Menu(driver);
+            TestScenariosPage tsPage = new TestScenariosPage(driver);
 
             menu.TestScenarios.Click();
-            Thread.Sleep(500);
             tsPage.LoginFormScenario.Click();
-            Thread.Sleep(500);
         }
     }
 }

@@ -1,12 +1,15 @@
-﻿using NUnit.Framework;
+﻿using AutoFramework;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using System.Threading;
 
 namespace AutoTestFramework.Scenarios
 {
-    class LoginInvalidUsername
+    [Parallelizable]
+    public class LoginInvalidUsername
     {
         IAlert alert;
+        public IWebDriver Driver { get; set; }
 
         public LoginInvalidUsername()
         {
@@ -16,15 +19,18 @@ namespace AutoTestFramework.Scenarios
         [OneTimeSetUp]
         public void Initialize()
         {
-            Actions.InitializeDriver();
-            NavigateTo.LoginFormScenarioTestCases();
+            Driver = Actions.InitializeDriver();
+            NavigateTo.LoginFormScenarioThroughMenu(Driver);
         }
 
         [Test]
         public void LessThan5Chars()
         {
-            Actions.FillLoginForm(Config.Credentials.Invalid.Username.FourCharacters, Config.Credentials.Valid.Password, Config.Credentials.Valid.RepeatPassword);
-            alert = Driver.driver.SwitchTo().Alert();
+            Actions.FillLoginForm(Config.Credentials.Invalid.Username.FourCharacters, 
+                                  Config.Credentials.Valid.Password, 
+                                  Config.Credentials.Valid.Password,
+                                  Driver);
+            alert = Driver.SwitchTo().Alert();
             Thread.Sleep(5000);
             Assert.AreEqual(Config.AlertTexts.UsernameLengthOutOfRange, alert.Text);
             alert.Accept();
@@ -33,9 +39,12 @@ namespace AutoTestFramework.Scenarios
         [Test]
         public void MoreThan12Chars()
         {
-            Actions.FillLoginForm(Config.Credentials.Invalid.Username.ThirteenCharacters, Config.Credentials.Valid.Password, Config.Credentials.Valid.RepeatPassword);
+            Actions.FillLoginForm(Config.Credentials.Invalid.Username.ThirteenCharacters, 
+                                  Config.Credentials.Valid.Password, 
+                                  Config.Credentials.Valid.Password,
+                                  Driver);
 
-            alert = Driver.driver.SwitchTo().Alert();
+            alert = Driver.SwitchTo().Alert();
             Thread.Sleep(5000);
             Assert.AreEqual(Config.AlertTexts.UsernameLengthOutOfRange, alert.Text);
             alert.Accept();
@@ -44,7 +53,7 @@ namespace AutoTestFramework.Scenarios
         [OneTimeTearDown]
         public void CleanUp()
         {
-            Driver.driver.Quit();
+            Driver.Quit();
         }
     }
 }
